@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  RetailStore
+
+  Created by Mateusz Mirkowski on 08/05/2017.
+  Copyright © 2017 Mateusz Mirkowski. All rights reserved.
+*/
+
+
+"error_add_to_cart" = "You already have this product in cart";
+"success_add_to_cart" = "Added to cart";
